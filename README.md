@@ -1,6 +1,10 @@
 # Globalis_paravent
 ***
 
+### Installation
+
+```php script.php```
+
 ### Énoncé
 
 
